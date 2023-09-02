@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+* {
+    color: #000;
+}
+
+body {
+    background-color: rgba(125, 150, 50, 0.3);
+}
+
+.header_cover {
+    /* background-color: #809673; */
+}
+
+header>h1 {
+    color: #485541;
+}
+
+header>nav>ul>li {
+    color: #485541;
+}
+
+header>nav>ul>li>a:hover {
+    color: orangered;
+}
+
+.content1>video {
+    border: 5px solid #485541;
+}
+
+.content1>p {
+    color: #555;
+}
+
+.content1>p:hover {
+    color: #ccc;
+}

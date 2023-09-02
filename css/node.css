@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+* {
+    color: #000;
+}
+
+body {
+    background-image: url(../video/bg.jpg);
+}
+
+header>h1 {
+    color: #555555;
+}
+
+header>nav>ul>li {
+    color: #555555;
+}
+
+header>nav>ul>li>a:hover {
+    color: #000;
+}
+
+.content1>video {
+    border: 5px solid #555555;
+}
+
+.content1>p {
+    color: #555;
+}
+
+.content1>p:hover {
+    color: #ccc;
+}
